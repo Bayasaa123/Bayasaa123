@@ -11,11 +11,9 @@
 <a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:bayarbayasgalan.888@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Bayasaa123">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -30,7 +28,7 @@
 - ☁️ Specialized in Azure, Synapse, Fabric, PySpark, SQL, and dbt  
 - 🏗️ Experienced in ETL/ELT pipelines, data warehousing, and reporting  
 - 📊 Strong focus on data quality, reconciliation, and business insights  
-- 🚀 Building modern cloud data platforms and scalable analytics solutions
+- 🚀 Building a modern cloud data engineering portfolio  
 
 ---
 
@@ -39,11 +37,11 @@
 <div align="center">
 
 <a href="https://www.credly.com/badges/8af64956-301a-4503-97ac-1f86441aafab/linked_in_profile" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft-DP--700%20Fabric%20Engineer-7B68EE?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft-DP--700%20Fabric%20Data%20Engineer-7B68EE?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </a>
 
 <a href="https://credentials.databricks.com/2d59514b-53a1-451b-9b22-e6fcc4f7f49e" target="_blank">
-  <img src="https://img.shields.io/badge/Databricks-Certified%20Associate-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
 </a>
 
 </div>
@@ -52,18 +50,18 @@
 
 <table>
 <tr>
-
 <td width="50%" align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="90"/>
+<img src="https://img.shields.io/badge/Microsoft%20Certified-DP--700-7B68EE?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
 ## Microsoft Certified
 
-### DP-700 Fabric Engineer
+### DP-700  
+**Fabric Data Engineer Associate**
 
 ☁️ Microsoft Fabric  
 🏗️ Lakehouse & Pipelines  
-📊 Data Engineering
+📊 Data Engineering  
 
 ✅ Completed
 
@@ -71,7 +69,7 @@
 
 <td width="50%" align="center">
 
-<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="90"/>
+<img src="https://img.shields.io/badge/Databricks-Certified%20Associate-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 ## Databricks Certified
 
@@ -79,12 +77,11 @@
 
 ⚡ Apache Spark  
 🔥 Lakehouse Platform  
-🚀 Distributed Processing
+🚀 Distributed Processing  
 
 ✅ Completed
 
 </td>
-
 </tr>
 </table>
 
@@ -94,24 +91,23 @@
 
 <table>
 <tr>
-
 <td width="33%" align="center">
 
 <img src="https://skillicons.dev/icons?i=python" width="70"/>
 
 ## Python
 
-Automation, ETL scripting, APIs, and data processing workflows.
+Automation, data processing, ETL scripts, APIs, and workflow development.
 
 </td>
 
 <td width="33%" align="center">
 
-<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="70"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="70"/>
 
 ## SQL
 
-Complex queries, optimization, analytics, and reporting solutions.
+Complex queries, optimization, stored procedures, analytics, and reporting.
 
 </td>
 
@@ -121,31 +117,29 @@ Complex queries, optimization, analytics, and reporting solutions.
 
 ## Azure
 
-Synapse, Fabric, Data Factory, ADLS, and cloud data platforms.
+Synapse, Fabric, Data Factory, ADLS, and modern cloud data platforms.
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="33%" align="center">
 
 <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" width="70"/>
 
 ## PySpark
 
-Distributed computing, scalable pipelines, and big data processing.
+Big data processing, scalable pipelines, and distributed transformations.
 
 </td>
 
 <td width="33%" align="center">
 
-<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="80"/>
+<img src="https://img.shields.io/badge/Data%20Engineering-ETL%2FELT-FF6B00?style=for-the-badge"/>
 
 ## Data Engineering
 
-ETL/ELT pipelines, orchestration, transformations, and modelling.
+ETL/ELT pipelines, orchestration, modelling, and data platform design.
 
 </td>
 
@@ -155,21 +149,19 @@ ETL/ELT pipelines, orchestration, transformations, and modelling.
 
 ## Power BI
 
-Dashboards, KPI reporting, business insights, and storytelling.
+Dashboards, KPI reporting, analytics, and business storytelling.
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="33%" align="center">
 
 <img src="https://skillicons.dev/icons?i=postgres" width="70"/>
 
 ## Databases
 
-SQL Server, PostgreSQL, MySQL, Oracle, MongoDB, and warehousing.
+SQL Server, PostgreSQL, MySQL, Oracle, MongoDB, and data warehouses.
 
 </td>
 
@@ -185,14 +177,45 @@ Git, Docker, CI/CD, Terraform, GitHub Actions, Linux, and Bash.
 
 <td width="33%" align="center">
 
-<img src="https://cdn.worldvectorlogo.com/logos/snowflake-6.svg" width="80"/>
+<img src="https://img.shields.io/badge/Data%20Warehousing-Snowflake%20%7C%20Redshift-56B9EB?style=for-the-badge"/>
 
 ## Data Warehousing
 
 Snowflake, Redshift, star schema, SCD2, and medallion architecture.
 
 </td>
+</tr>
 
+<tr>
+<td width="33%" align="center">
+
+<img src="https://img.shields.io/badge/Databricks-Lakehouse-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+## Databricks
+
+Lakehouse platform, Delta Lake, Unity Catalog, Spark, and workflows.
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.shields.io/badge/Data%20Quality-Reconciliation-22C55E?style=for-the-badge"/>
+
+## Data Quality
+
+Validation, testing, reconciliation, monitoring, and accuracy checks.
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.shields.io/badge/Analytics-BI%20Reporting-F2C811?style=for-the-badge"/>
+
+## BI & Analytics
+
+KPI reporting, dashboards, business insights, and decision support.
+
+</td>
 </tr>
 </table>
 
@@ -231,7 +254,7 @@ Built an end-to-end cloud data platform integrating D365 and CSV sources into Az
 
 ## 🔹 dbt ELT Transformation Project
 
-Created staging and mart models with automated data quality tests and reconciliation checks.
+Created staging and mart models with automated data quality tests, including unique, not null, and reconciliation checks.
 
 **Tech Used:** dbt • SQL • Snowflake • Redshift
 
@@ -247,22 +270,24 @@ Implemented validation and reconciliation checks between source systems, data wa
 
 ## 🔹 Streaming Data Pipeline Project
 
-Designed a real-time data pipeline using event ingestion, transformation, and analytics-ready storage.
+Designed a real-time data pipeline concept using event ingestion, transformation, and analytics-ready storage.
 
 **Tech Used:** Kafka • Spark • Python • Cloud Storage
 
 ---
 
-# 🔥 Contribution Streak
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bayasaa123&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
+---
+
 <div align="center">
 
-## ✨ Turning raw data into meaningful insights
+## ✨ “Turning raw data into meaningful insights.”
 
 </div>
