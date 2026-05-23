@@ -253,6 +253,14 @@ Designed a real-time data pipeline using event ingestion, transformation, and an
 
 ---
 
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bayasaa123&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 <div align="center">
 
 ## ✨ Turning raw data into meaningful insights
