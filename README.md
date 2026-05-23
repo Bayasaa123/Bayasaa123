@@ -11,34 +11,86 @@ My work focuses on **ETL/ELT pipelines, data modelling, data quality, reconcilia
 
 ---
 
-## Things I'm Good At
+## Things I’m Good At
 
-![SQL](https://img.shields.io/badge/SQL-blue)
-![Python](https://img.shields.io/badge/Python-yellow)
-![Azure](https://img.shields.io/badge/Azure-blue)
-![Synapse](https://img.shields.io/badge/Azure%20Synapse-blue)
-![Fabric](https://img.shields.io/badge/Microsoft%20Fabric-purple)
-![dbt](https://img.shields.io/badge/dbt-orange)
-![Spark](https://img.shields.io/badge/Apache%20Spark-red)
-![Snowflake](https://img.shields.io/badge/Snowflake-lightblue)
-![Power BI](https://img.shields.io/badge/Power%20BI-yellow)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black)
+<table>
+<tr>
+<td width="50%">
 
----
+### 🐍 Python
+Data processing, automation, scripting, and ETL development.
 
-## Featured Projects
+</td>
 
-### Azure Synapse Data Warehouse Project
-Built an end-to-end data pipeline from D365 and CSV files into Azure Data Lake, using Bronze, Silver, and Gold layers.
+<td width="50%">
 
-**Tools:** Azure Synapse, PySpark, SQL, Data Lake, Star Schema
+### 🗄 SQL
+Query optimization, stored procedures, analytics, and warehousing.
 
-### dbt Data Transformation Project
-Created staging and mart models with data quality tests such as unique, not null, and reconciliation checks.
+</td>
+</tr>
 
-**Tools:** dbt, SQL, Snowflake/Redshift
+<tr>
+<td width="50%">
 
-### Data Quality & Reconciliation Project
-Compared source data and reporting tables to identify mismatches and improve reporting accuracy.
+### ⚡ PySpark
+Big data processing, distributed computing, and data pipelines.
 
-**Tools:** SQL, Power BI, Data Warehouse
+</td>
+
+<td width="50%">
+
+### ☁️ Azure
+Synapse, Data Factory, Fabric, ADLS, and cloud data solutions.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏗 Data Engineering
+ETL/ELT pipelines, orchestration, modelling, and transformation.
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Visualization
+Power BI dashboards, reporting, and analytics storytelling.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ✅ Data Quality
+Validation, reconciliation, testing, and monitoring accuracy.
+
+</td>
+
+<td width="50%">
+
+### ❄️ Data Warehousing
+Snowflake, Redshift, star schema, medallion architecture.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚙️ DevOps & Tools
+Git, Docker, CI/CD, Terraform, GitHub Actions.
+
+</td>
+
+<td width="50%">
+
+### 🧠 BI & Analytics
+Business insights, KPI reporting, and decision support.
+
+</td>
+</tr>
+</table>
